@@ -5,7 +5,7 @@ Not sure how I feel about taking notes this way but here goes.
 ## Understanding Problems with Pseudocode 
 ##### (sudocode??? lol)
 
-*+Understand the problem**
+**Understand the problem**
 
 - what are the inputs / "ingredients" of our problem?
 - what is the desired output? 
