@@ -1,7 +1,8 @@
-# Serra's Notes
+# NOTES
 
-This repo contains all of the notes taken by [serra](https://github.com/teknoboten) by the [Lighthouse Labs](https://www.lighthouselabs.ca/) Developement Bootcamp.
+Sharing [my](https://github.com/teknoboten) notes from [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Developement Bootcamp. 
 
-## Table of Contents
-  * [Week 1](/Week_1)
-    * [Day 1](/Week_1/Day_1)
+Consider this an attempt to redeem all the karma I burned while copying Char's notes in Chem 30S. :test_tube: Also, a worthwhile opportunity to practice markdown, and *maybe* move on from keeping all my notes in a giant note. I said *maybe*.
+
+## [Week 1](/Week_1)
+
