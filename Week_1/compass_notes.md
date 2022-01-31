@@ -104,3 +104,33 @@ const sayHelloGoodly = function(name) {
 sayHelloGoodly(person);
 ```
 
+# [Toothy](https://www.gmbinder.com/share/-M4UYaXXycLfVnk2fA-i) / Falsy 
+
+23 === "23" *False*
+- compares the values and the TYPE of those values
+
+23 == "23" *True*
+- attempts to force the values to be the same type
+- aka *type coercion* aka *mildly janky* aka *don't use it*
+
+## All of the following are inherently falsey:
+
+False
+0
+""
+null
+undefined
+NaN
+
+in js, most things are truthy. except the above exceptions.
+
+*what doing?*
+
+use this to compare things. check if a value exists. 
+
+```javascript 
+if(!taco){
+  console.log(`let's make some tacos`);
+}
+```
+
