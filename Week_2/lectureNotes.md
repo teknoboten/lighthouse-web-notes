@@ -120,6 +120,10 @@ Note: use a for... in loop
 
 # Think about the future
 
+- write good code
+- help your future self (or others) understand your code
+- make it as unmutable .... unmutatable? as possible
+
 
 
 
